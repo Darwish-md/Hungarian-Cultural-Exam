@@ -5,7 +5,7 @@ This document collects the recurring words, grammar patterns, connector words, n
 
 ---
 
-## A. High-frequency core words (Leggyakoribb kulcsszavak)
+## 1. High-frequency core words (Leggyakoribb kulcsszavak)
 
 | Hungarian | English | Notes / where it appears |
 |---|---|---|
@@ -54,7 +54,7 @@ This document collects the recurring words, grammar patterns, connector words, n
 
 ---
 
-## B. Connector & function words (Kötőszavak — help you parse exam questions)
+## 2. Connector & function words (Kötőszavak — help you parse exam questions)
 
 | Hungarian | English | Function |
 |---|---|---|
@@ -84,7 +84,7 @@ This document collects the recurring words, grammar patterns, connector words, n
 
 ---
 
-## C. Antonym / opposite pairs (Ellentétpárok)
+## 3. Antonym / opposite pairs (Ellentétpárok)
 
 | Hungarian word | English meaning | Hungarian opposite | English meaning |
 |---|---|---|---|
@@ -103,7 +103,7 @@ This document collects the recurring words, grammar patterns, connector words, n
 
 ---
 
-## D. Word-family clusters (Szócsaládok — recognize the root, guess the meaning)
+## 4. Word-family clusters (Szócsaládok — recognize the root, guess the meaning)
 
 | Root | Family members | Meaning pattern |
 |---|---|---|
@@ -120,9 +120,9 @@ This document collects the recurring words, grammar patterns, connector words, n
 
 ---
 
-## E. Rights in Europe and Hungary, simplified (Emberi és alapvető jogok egyszerűsítve)
+## 5. Rights in Europe and Hungary, simplified (Emberi és alapvető jogok egyszerűsítve)
 
-### E1. Historical development of human rights (Az emberi jogok kialakulása)
+### 5.1. Historical development of human rights (Az emberi jogok kialakulása)
 
 Human rights developed over **centuries**, with roots going back to **ancient times** (ókori előzmények). Three milestone documents are highlighted:
 
@@ -138,7 +138,7 @@ In the **17th–18th centuries** (17-18. század), civil/bourgeois societies (po
 
 A further milestone (mérföldkő) is the **Emberi Jogok Európai Egyezménye** (European Convention on Human Rights), **1950**. This treaty **obliges states** (kötelezi az államokat) to guarantee the freedoms it lists to anyone living under their jurisdiction (joghatóság alatt élő egyének).
 
-### E2. The three generations of rights (A jogok három generációja), simplified
+### 5.2. The three generations of rights (A jogok három generációja), simplified
 
 | Generation (Generáció) | Simple theme | Rights included (Hungarian) | English meaning |
 |---|---|---|---|
@@ -158,7 +158,7 @@ A further milestone (mérföldkő) is the **Emberi Jogok Európai Egyezménye** 
 
 **Simple way to remember:** 1st generation = "leave me alone" freedoms (speech, religion, assembly); 2nd generation = "help me" rights (work, education, social security); 3rd generation = "protect us all" rights (environment, children, patients, disabled people).
 
-### E3. Rights guaranteed by Hungary's Fundamental Law (Az Alaptörvényben biztosított alapvető jogok), simplified
+### 5.3. Rights guaranteed by Hungary's Fundamental Law (Az Alaptörvényben biztosított alapvető jogok), simplified
 
 Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen és elidegeníthetetlen), and protecting them is the **state's primary duty** (az állam elsőrendű kötelessége). A basic right can only be limited to protect another basic right or a constitutional value.
 
@@ -177,9 +177,9 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 
 ---
 
-## F. Important names and what they are known for (Fontos nevek)
+## 6. Important names and what they are known for (Fontos nevek)
 
-### F1. Kings, rulers, and political leaders (Uralkodók és politikai vezetők)
+### 6.1. Kings, rulers, and political leaders (Uralkodók és politikai vezetők)
 
 | Name (Név) | Known for (Mivel ismert) |
 |---|---|
@@ -208,7 +208,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 | **Magyar Péter** | Hungary's Prime Minister named in this material (Magyarország miniszterelnöke a tananyag szerint) |
 | **Dr. Sulyok Tamás** | Hungary's President of the Republic named in this material (Magyarország köztársasági elnöke a tananyag szerint) |
 
-### F2. Writers, poets, and composers (Írók, költők és zeneszerzők)
+### 6.2. Writers, poets, and composers (Írók, költők és zeneszerzők)
 
 | Name (Név) | Known work(s) (Ismert mű/művek) | Period (Korszak) |
 |---|---|---|
@@ -247,7 +247,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 
 ---
 
-## G. Important dates and events (Fontos évszámok és események)
+## 7. Important dates and events (Fontos évszámok és események)
 
 | Date (Dátum) | Event (Esemény) |
 |---|---|
@@ -298,7 +298,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 
 ---
 
-## H. Key documents and texts (Fontos dokumentumok és szövegek)
+## 8. Key documents and texts (Fontos dokumentumok és szövegek)
 
 | Document (Dokumentum) | Details (Részletek) |
 |---|---|
@@ -313,7 +313,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 
 ---
 
-## I. Institutions and their roles (Intézmények és feladataik)
+## 9. Institutions and their roles (Intézmények és feladataik)
 
 | Institution (Intézmény) | Role (Szerep) |
 |---|---|
@@ -323,7 +323,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 | **Alkotmánybíróság** | Constitutional Court — declared the death penalty unconstitutional in 1990 (Alkotmányossági felügyeletet ellátó testület) |
 | **Európai Unió intézményei** | EU institutions — Európai Bizottság (Commission), Tanács (Council), Európai Parlament (Parliament), Európai Tanács (European Council) |
 
-### I1. Hungary's ministries (Magyarország minisztériumai)
+### 9.1. Hungary's ministries (Magyarország minisztériumai)
 
 Each ministry (minisztérium) is a government department responsible for one policy area, led by a miniszter. Note the recurring **-ügy / -ügyi** pattern ("affairs of ___").
 
@@ -348,7 +348,7 @@ Each ministry (minisztérium) is a government department responsible for one pol
 
 ---
 
-## J. National symbols quick-reference (Nemzeti jelképek)
+## 10. National symbols quick-reference (Nemzeti jelképek)
 
 | Symbol (Jelkép) | Key facts (Legfontosabb tudnivalók) |
 |---|---|
@@ -362,7 +362,7 @@ Each ministry (minisztérium) is a government department responsible for one pol
 
 ---
 
-## K. Hungary in general — key facts (Magyarországról általánosságban)
+## 11. Hungary in general — key facts (Magyarországról általánosságban)
 
 | Category (Kategória) | Details (Részletek) |
 |---|---|
@@ -381,7 +381,7 @@ Each ministry (minisztérium) is a government department responsible for one pol
 
 ---
 
-## L. Budapest and its main sights (Budapest és nevezetességei)
+## 12. Budapest and its main sights (Budapest és nevezetességei)
 
 Budapest was formed on **November 17, 1873**, by the unification of **Pest** (on the left/east bank of the Danube) with **Buda** and **Óbuda** (on the right/west bank). Since **1994**, it has had **23 districts** (kerület).
 
@@ -404,7 +404,7 @@ Budapest was formed on **November 17, 1873**, by the unification of **Pest** (on
 
 ---
 
-## M. Hungarikumok — typically Hungarian things (Hungarikumok)
+## 13. Hungarikumok — typically Hungarian things (Hungarikumok)
 
 **Hungarikumok** are creations, characteristic objects, and customs that are typically Hungarian and not characteristic of any other nation. The word comes from the Latin name of Hungary, **Hungária**.
 
@@ -419,7 +419,7 @@ Budapest was formed on **November 17, 1873**, by the unification of **Pest** (on
 
 ---
 
-## N. Christianity in Hungary (Kereszténység Magyarországon)
+## 14. Christianity in Hungary (Kereszténység Magyarországon)
 
 Hungary's oldest and most significant denominations (legrégibb és legjelentősebb felekezetei):
 
@@ -443,7 +443,7 @@ Szent István, Szent László, Szent Imre, Szent Gellért, Árpád-házi Szent M
 
 ---
 
-## O. Hungary and the European Union (Magyarország és az Európai Unió)
+## 15. Hungary and the European Union (Magyarország és az Európai Unió)
 
 | Fact (Tény) | Detail (Részlet) |
 |---|---|
