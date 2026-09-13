@@ -455,3 +455,114 @@ Szent István, Szent László, Szent Imre, Szent Gellért, Árpád-házi Szent M
 | **EP-választások (EP elections)** | held every 5 years — ötévente |
 | **Magyarország az EP-ben** | Hungary has **21 representatives** in the European Parliament |
 | **Tagállamok száma (number of member states)** | 27 |
+
+---
+
+## 16. Section 2 deep-dive — (Kiegészítés: Magyarország történelme)
+
+Important details from Section 2 (Magyarország történelme):
+
+### 1. Additional Reform Era figures (A reformkor további jelentős személyiségei)
+
+Alongside Széchenyi István, Kossuth Lajos, Batthyány Lajos, Deák Ferenc, and Kölcsey Ferenc, the material also names:
+
+| Name (Név) | Role |
+|---|---|
+| **Wesselényi Miklós** | Listed among the Reform Era's significant figures (reformkor jelentős személyiségei) |
+
+### 2. Key people of the March 1848 events (A márciusi események szereplői)
+
+| Name (Név) | Role |
+|---|---|
+| **Petőfi Sándor** | Important figure of the March events (also known as a Romantic poet — Nemzeti dal) |
+| **Jókai Mór** | Important figure of the March events (also a Romantic novelist — A kőszívű ember fiai) |
+| **Vasvári Pál** | Important figure of the March events |
+| **Táncsics Mihály** | Freed from prison by the crowd on March 1848 |
+| **István nádor** (Palatine Stephen) | Approved and appointed Batthyány Lajos as Prime Minister on March 17, 1848, with the monarch's consent |
+
+**Key locations and symbols of March 1848:**
+
+| Hungarian | English |
+|---|---|
+| **Pilvax kávéház** | The Pilvax café, where the "márciusi ifjak" (March Youths) gathered |
+| **Landerer nyomdája** | Landerer's printing press, where the revolutionaries' 12 demands (12 pont) were printed without censorship |
+| **Nemzeti Múzeum** | The National Museum, site of a mass rally (nagygyűlés) |
+| **piros-fehér-zöld kokárda** | The red-white-green cockade — one of the main symbols of the 1848–49 Revolution |
+
+### 3. The first responsible Hungarian government, 1848 (Az első felelős magyar kormány) — full cabinet
+
+| Name (Név) | Position (Tisztség) |
+|---|---|
+| **Batthyány Lajos** | miniszterelnök — Prime Minister |
+| **Szemere Bertalan** | belügyminiszter — Minister of Interior |
+| **Kossuth Lajos** | pénzügyminiszter — Minister of Finance |
+| **Széchenyi István** | közmunka- és közlekedési miniszter — Minister of Public Works and Transport |
+| **Deák Ferenc** | igazságügy-miniszter — Minister of Justice |
+| **Mészáros Lázár** | hadügyminiszter — Minister of War/Defense |
+| **Klauzál Gábor** | földművelés-, ipar- és kereskedelmi miniszter — Minister of Agriculture, Industry, and Trade |
+| **Eötvös József** | vallás- és közoktatási miniszter — Minister of Religion and Public Education |
+| **Esterházy Pál** | a király személye körüli miniszter — Minister at the King's Person (liaison to the monarch) |
+
+### 4. World War I — opposing alliances (Egymással szemben álló hatalmak)
+
+| Alliance (Szövetség) | Members (Tagok) |
+|---|---|
+| **Antant és szövetségesei** (Entente and allies) | Franciaország (France), Oroszország (Russia), Nagy-Britannia (Great Britain), Olaszország (Italy), Japán (Japan), Amerikai Egyesült Államok (USA), Szerb Királyság (Kingdom of Serbia), Román Királyság (Kingdom of Romania) |
+| **Központi hatalmak** (Central Powers) | Németország (Germany), Osztrák-Magyar Monarchia (Austria-Hungary), Oszmán Birodalom (Ottoman Empire), Bulgária (Bulgaria) |
+
+**Result:** The war ended with the victory of the Entente powers (az antanthatalmak győzelmével végződött).
+
+### 5. Treaty of Trianon — the numbers (A trianoni békeszerződés számokban)
+
+| Fact (Tény) | Figure (Adat) |
+|---|---|
+| Signed | June 4, 1920 (1920. június 4.) |
+| Territory lost | About two-thirds of Hungary's territory (mintegy kétharmada) |
+| Population before | 18.2 million (18,2 millió fő) |
+| Population after | 7.6 million (7,6 millió fő) |
+| Hungarians left outside the new borders | 3.3 million — one-third of the Hungarian nation (a magyar nemzet egyharmada) |
+| Main political goal after 1920 | **Revízió** — revision of the "unjust borders" (igazságtalan határok felülvizsgálata) |
+| Defining politicians of the 1920s–30s | Horthy Miklós (kormányzó/regent), Bethlen István, Teleki Pál |
+
+### 6. World War II — opposing alliances and Hungary's involvement (A második világháború)
+
+| Alliance (Szövetség) | Members (Tagok) |
+|---|---|
+| **Szövetségesek** (Allies) | Egyesült Királyság (UK), Egyesült Államok (USA), Szovjetunió (Soviet Union) |
+| **Tengelyhatalmak** (Axis Powers) | Németország (Germany), Olaszország (Italy), Japán (Japan) |
+
+**Hungary's WWII timeline:**
+
+| Date/Event | Detail |
+|---|---|
+| **1941** | Hungary enters the war on the side of the Axis powers |
+| **Keleti front** (Eastern Front) | Hungarian troops fought here during the war |
+| **1943. január — Don-kanyar** | A significant part of the 2nd Hungarian Army (2. magyar hadsereg) was destroyed in fighting in the Don region |
+| **1944. március 19.** | Germany occupies Hungary |
+| **1944 ősze** | Horthy Miklós resigns as regent; Hungary becomes a puppet state (bábállam) and battlefield (hadszíntér) of Germany |
+| **Holokauszt** | Following the German occupation, systematic deportation of mostly rural Jews began; the number of Hungarian Holocaust victims is estimated at **500,000–600,000** |
+| **Budapest ostroma** (Siege of Budapest) | The Buda Castle and inner-city areas were almost completely destroyed; the half-year of fighting killed hundreds of thousands of soldiers and civilians |
+| **Soviet deportations** | Occupying Soviet troops deported hundreds of thousands of people to the USSR (Gulag, forced labor) |
+| **1945 tavasza** | Germans surrendered; WWII ended in Europe |
+| **Post-war territorial losses** | Hungary again lost the territories regained in the **First Vienna Award (1938)** and the **Second Vienna Award (1940)**; the victorious powers also required reparations (jóvátétel) payments |
+| **Németek kitelepítése** | A significant portion of Hungary's ethnic Germans (svábok) were expelled/resettled |
+
+### 7. The 1956 Revolution — additional details (Az 1956. évi forradalom kiegészítések)
+
+| Hungarian | English |
+|---|---|
+| **Corvin köz** | Emblematic resistance location during the 1956 Revolution |
+| **Szena tér** | Another emblematic resistance location during the 1956 Revolution |
+| **lyukas zászló** | The "flag with a hole" — the Hungarian flag with the communist-era Rákosi coat of arms (Rákosi-címer) physically cut out of the center; one of the revolution's main symbols |
+| **Magyar Rádió épülete** | Site of the first armed clash that sparked the spread of fighting across Budapest |
+
+---
+
+### Summary: what to add to your review
+
+If you only remember five new things from this section, make it these:
+1. The 1848 cabinet had **9 ministers** — know at least Batthyány (PM), Kossuth (finance), Deák (justice), Széchenyi (transport).
+2. WWI: **Antant** (France, Russia, UK, Italy, Japan, USA, Serbia, Romania) vs. **Központi hatalmak** (Germany, Austria-Hungary, Ottoman Empire, Bulgaria).
+3. Trianon: **⅔ of territory lost**, population dropped **18.2M → 7.6M**, **3.3 million Hungarians** stranded outside the new borders.
+4. WWII: Hungary joined the **Axis** in 1941; the **2nd Army was destroyed at the Don** in 1943; Germany occupied Hungary in **March 1944**.
+5. 1956 symbol: the **lyukas zászló** — flag with the Rákosi emblem cut out of the middle.
