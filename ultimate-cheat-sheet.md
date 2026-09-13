@@ -556,8 +556,6 @@ Alongside Széchenyi István, Kossuth Lajos, Batthyány Lajos, Deák Ferenc, and
 | **lyukas zászló** | The "flag with a hole" — the Hungarian flag with the communist-era Rákosi coat of arms (Rákosi-címer) physically cut out of the center; one of the revolution's main symbols |
 | **Magyar Rádió épülete** | Site of the first armed clash that sparked the spread of fighting across Budapest |
 
----
-
 ### Summary: what to add to your review
 
 If you only remember five new things from this section, make it these:
