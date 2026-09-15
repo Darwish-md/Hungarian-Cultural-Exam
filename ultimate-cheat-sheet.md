@@ -51,6 +51,56 @@ This document collects the recurring words, grammar patterns, connector words, n
 | jellegzetes | characteristic/typical | jellegzetes tárgyak, szokások (hungarikumok) |
 | felekezet | denomination (religious) | legrégibb és legjelentősebb felekezetei |
 | szokás | custom | magyar szokások |
+| jobb (oldal) | right (side) | címer jobb oldalán — on the right side of the coat of arms |
+| bal (oldal) | left (side) | címer bal oldalán — on the left side of the coat of arms |
+| oldalán | on the side of | a címer jobb/bal oldalán |
+| gyakran | often | gyakran énekeljük a Szózatot is |
+| emlékére | in memory of / commemorating | Szent István király emlékünnepe — in memory of King Saint Stephen |
+| törzs | tribe | 7 magyar törzs foglalta el a Kárpát-medencét |
+| felvette (vallást) | adopted (a religion) | az ország felvette a római katolikus vallást |
+| lázadt (fel) | rebelled | a magyar nép fellázadt a Habsburg-ház ellen 1848-ban |
+| fel (pl. felvonják a lobogót) | up / raise (verbal prefix) | felvonják a zászlót az Országház előtt |
+| adta ki | issued | II. András adta ki az Aranybullát 1222-ben |
+| része | part of | a minisztériumok a Kormány részei |
+
+---
+
+### 1.1. Question words (Kérdőszavak)
+
+| Hungarian | English |
+|---|---|
+| Ki? | Who? (singular person) |
+| Kik? | Who? (plural people) |
+| Kinek? | To whom? / Whose? |
+| Kiknek? | To whom? / Whose? (plural) |
+| Hol? | Where? |
+| Honnan? | From where? |
+| Hová? | Where to? |
+| Mikor? | When? |
+| Melyik? | Which one? |
+| Melyek? | Which ones? |
+| Mi? | What? |
+| Mik? | What? (plural) |
+| Miért? | Why? |
+| Hogyan? / Hogy? | How? |
+| Mennyi? | How much? |
+| Hány? | How many? |
+| Mióta? | Since when? |
+| Miről? | About what? |
+
+### 1.2. Important Exam Instructions (Fontos vizsgai utasítások)
+
+| Hungarian | English |
+|---|---|
+| Nevezze meg… | Name / Identify |
+| Sorolja fel… | List |
+| Írja le… | Write / Describe |
+| Húzza alá… | Underline |
+| Karikázza be… | Circle |
+| Válaszoljon… | Answer |
+| Pótolja… | Complete / Fill in the missing part |
+| Egészítse ki… | Complete the sentence / Fill in the blank |
+| Párosítsa… | Match |
 
 ---
 
@@ -184,12 +234,12 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 | Name (Név) | Known for (Mivel ismert) |
 |---|---|
 | **Árpád** | Led the 7 Hungarian tribes during the Honfoglalás, 895–896 (Vezette a 7 magyar törzset a honfoglalás idején) |
-| **I. (Szent) István** | First Christian king; crowned January 1, 1001; state founder — államalapító (Első keresztény király; 1001. január 1-jén koronázták; az államalapító) |
+| **I. (Szent) István** | First Christian king; crowned January 1, 1001; state founder — államalapító (Első keresztény király; 1001. január 1-jén koronázták; az államalapító). The country adopted the **Roman Catholic religion** and abandoned the **pagan rite and lifestyle** (az ország felvette a római katolikus vallást, felhagyott a pogány rítussal és életmóddal). He organized the state by founding **10 dioceses** (tíz egyházmegye), introducing the **county system** (vármegyerendszer), and establishing **bishoprics and archbishoprics** (püspökségek és érsekségek) |
 | **Szent László & Könyves Kálmán** | Two most significant Árpád-dynasty rulers after Saint Stephen (A két legjelentősebb Árpád-házi uralkodó Szent István után) |
 | **II. András** | Issued the Aranybulla (Golden Bull) in 1222 (Kiadta az Aranybullát 1222-ben) |
 | **IV. Béla** | "Second founder of the homeland" — második honalapító; rebuilt Hungary after the Mongol invasion, 1241–42 (Újjászervezte az országot a tatárjárás után) |
 | **III. András** | Last king of the Árpád dynasty; died 1301, ending the dynasty (Az Árpád-ház utolsó királya; halálával kihalt a dinasztia) |
-| **Hunyadi János** | Led the victory at Nándorfehérvár, Belgrade, in 1456 (Vezette a győzelmet Nándorfehérvárnál 1456-ban) |
+| **Hunyadi János** | Led the victory at Nándorfehérvár, Belgrade, in 1456 (Vezette a győzelmet Nándorfehérvárnál 1456-ban). In memory of this victory, the Pope ordered church bells to be rung at noon across Christian Europe — this is the origin of the **déli harangszó** (midday bell-ringing custom), still observed today (a déli harangszó a nándorfehérvári diadal emlékére szól) |
 | **Hunyadi Mátyás (Mátyás király)** | Reigned 1458–1490; Renaissance-era golden age of Hungary (Uralkodása alatt élte fénykorát a reneszánsz kori Magyarország) |
 | **II. Rákóczi Ferenc** | Led the national uprising against Habsburg oppression, 1703–1711 (Vezette a Habsburg-ellenes felkelést) |
 | **Széchenyi István** | "The greatest Hungarian" — a legnagyobb magyar; founded the Hungarian Academy of Sciences; built the Chain Bridge — Lánchíd (A Magyar Tudományos Akadémia alapítója; a Lánchíd megépítője) |
@@ -203,47 +253,49 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 | **Rákosi Mátyás** | Hated leader — gyűlölt vezető — of the communist one-party system before 1956 (Az egypártrendszer gyűlölt vezetője) |
 | **Nagy Imre** | Led the 1956 revolutionary government; executed after the revolution; reburied June 16, 1989 (A forradalmi kormány vezetője; kivégezték; 1989-ben újratemették) |
 | **Kádár János** | Installed as leader after 1956; his era lasted 1956–1989 (Vezetőnek jelölték 1956 után; korszaka 1989-ig tartott) |
-| **Antall József** | Led the right-wing conservative government formed after the 1990 elections (Jobboldali konzervatív kormányt vezetett 1990-ben) |
+| **Antall József** | Hungary's **first Prime Minister after communism** — the first freely elected, non-communist PM since 1948 (Magyarország első miniszterelnöke a kommunizmus után; 1990. május 23. – 1993. december 12.); led the right-wing conservative government formed after the 1990 elections (Jobboldali konzervatív kormányt vezetett 1990-ben) |
 | **Göncz Árpád** | President of the Republic elected after the 1989–1990 rendszerváltás (Köztársasági elnök a rendszerváltás után) |
 | **Magyar Péter** | Hungary's Prime Minister named in this material (Magyarország miniszterelnöke a tananyag szerint) |
 | **Dr. Sulyok Tamás** | Hungary's President of the Republic named in this material (Magyarország köztársasági elnöke a tananyag szerint) |
 
 ### 6.2. Writers, poets, and composers (Írók, költők és zeneszerzők)
 
-| Name (Név) | Known work(s) (Ismert mű/művek) | Period (Korszak) |
-|---|---|---|
-| **Kölcsey Ferenc** | Himnusz (poem, 1823 / költemény) | Romanticism — Romantika |
-| **Erkel Ferenc** | Set the Himnusz to music; opera Bánk bán (Megzenésítette a Himnuszt) | Music history — Zenetörténet |
-| **Vörösmarty Mihály** | Szózat (1836) | Romanticism — Romantika |
-| **Egressy Béni** | Set the Szózat to music (Megzenésítette a Szózatot) | Music history — Zenetörténet |
-| **Petőfi Sándor** | Nemzeti dal | Romanticism — Romantika |
-| **Jókai Mór** | A kőszívű ember fiai | Romanticism — Romantika |
-| **Arany János** | A walesi bárdok | Romanticism — Romantika |
-| **Katona József** | Bánk bán (drama / dráma) | Romanticism — Romantika |
-| **Madách Imre** | Az ember tragédiája | Romanticism — Romantika |
-| **Janus Pannonius** | Pannónia dicsérete | Renaissance — Reneszánsz |
-| **Balassi Bálint** | Hogy Júliára talála, így köszöne néki | Renaissance — Reneszánsz |
-| **Zrínyi Miklós** | Szigeti veszedelem | Baroque — Barokk |
-| **Csokonai Vitéz Mihály** | A reményhez | Enlightenment — Felvilágosodás |
-| **Batsányi János** | A franciaországi változásokra | Enlightenment — Felvilágosodás |
-| **Kazinczy Ferenc** | Leading figure of the language reform — a nyelvújítás vezéralakja | Classicism — Klasszicizmus |
-| **Berzsenyi Dániel** | Az első szerelem | Classicism — Klasszicizmus |
-| **Ady Endre** | Elbocsátó, szép üzenet | 20th century — 20. század |
-| **Móricz Zsigmond** | Rokonok | 20th century — 20. század |
-| **Kosztolányi Dezső** | Édes Anna | 20th century — 20. század |
-| **Karinthy Frigyes** | Így írtok ti | 20th century — 20. század |
-| **József Attila** | Tiszta szívvel | 20th century — 20. század |
-| **Radnóti Miklós** | Nem tudhatom | 20th century — 20. század |
-| **Márai Sándor** | Egy polgár vallomása | 20th century — 20. század |
-| **Bartók Béla** | A kékszakállú herceg vára; folk music researcher — népzenekutató | Music history — Zenetörténet |
-| **Kodály Zoltán** | Háry János; folk music researcher — népzenekutató | Music history — Zenetörténet |
-| **Liszt Ferenc** | Magyar rapszódiák | Music history — Zenetörténet |
-| **William Shakespeare** | Rómeó és Júlia | European literature — Európai irodalom |
-| **Voltaire** | Candide | European literature — Európai irodalom |
-| **Johann Wolfgang von Goethe** | Faust | European literature — Európai irodalom |
-| **Ludwig van Beethoven** | IX. szimfónia (az Európai Unió himnusza) | European music — Európai zene |
-| **Wolfgang Amadeus Mozart** | A varázsfuvola | European music — Európai zene |
-| **Pjotr Iljics Csajkovszkij** | A hattyúk tava | European music — Európai zene |
+| Name (Név) | Known work(s) (Ismert mű/művek) | Period (Korszak) | Role (Szerep) |
+|---|---|---|---|
+| **Kölcsey Ferenc** | Himnusz (poem, 1823 / költemény) | Romanticism — Romantika | Poet — Költő |
+| **Erkel Ferenc** | Set the Himnusz to music; opera Bánk bán (Megzenésítette a Himnuszt) | Music history — Zenetörténet | Composer — Zeneszerző |
+| **Vörösmarty Mihály** | Szózat (1836) | Romanticism — Romantika | Poet — Költő |
+| **Egressy Béni** | Set the Szózat to music (Megzenésítette a Szózatot) | Music history — Zenetörténet | Composer — Zeneszerző |
+| **Petőfi Sándor** | Nemzeti dal | Romanticism — Romantika | Poet — Költő |
+| **Jókai Mór** | A kőszívű ember fiai | Romanticism — Romantika | Writer — Író |
+| **Arany János** | A walesi bárdok | Romanticism — Romantika | Poet — Költő |
+| **Katona József** | Bánk bán (drama / dráma) | Romanticism — Romantika | Writer — Író |
+| **Madách Imre** | Az ember tragédiája | Romanticism — Romantika | Writer — Író |
+| **Janus Pannonius** | Pannónia dicsérete | Renaissance — Reneszánsz | Poet — Költő |
+| **Balassi Bálint** | Hogy Júliára talála, így köszöne néki | Renaissance — Reneszánsz | Poet — Költő |
+| **Zrínyi Miklós** | Szigeti veszedelem | Baroque — Barokk | Writer — Író |
+| **Csokonai Vitéz Mihály** | A reményhez | Enlightenment — Felvilágosodás | Poet — Költő |
+| **Batsányi János** | A franciaországi változásokra | Enlightenment — Felvilágosodás | Poet — Költő |
+| **Kazinczy Ferenc** | Leading figure of the language reform — a nyelvújítás vezéralakja | Classicism — Klasszicizmus | Writer — Író |
+| **Berzsenyi Dániel** | Az első szerelem | Classicism — Klasszicizmus | Poet — Költő |
+| **Ady Endre** | Elbocsátó, szép üzenet | 20th century — 20. század | Poet — Költő |
+| **Móricz Zsigmond** | Rokonok | 20th century — 20. század | Writer — Író |
+| **Kosztolányi Dezső** | Édes Anna | 20th century — 20. század | Writer — Író |
+| **Karinthy Frigyes** | Így írtok ti | 20th century — 20. század | Writer — Író |
+| **József Attila** | Tiszta szívvel | 20th century — 20. század | Poet — Költő |
+| **Radnóti Miklós** | Nem tudhatom | 20th century — 20. század | Poet — Költő |
+| **Márai Sándor** | Egy polgár vallomása | 20th century — 20. század | Writer — Író |
+| **Bartók Béla** | A kékszakállú herceg vára; folk music researcher — népzenekutató | Music history — Zenetörténet | Composer — Zeneszerző |
+| **Kodály Zoltán** | Háry János; folk music researcher — népzenekutató | Music history — Zenetörténet | Composer — Zeneszerző |
+| **Liszt Ferenc** | Magyar rapszódiák | Music history — Zenetörténet | Composer — Zeneszerző |
+| **William Shakespeare** | Rómeó és Júlia | European literature — Európai irodalom | Writer — Író |
+| **Voltaire** | Candide | European literature — Európai irodalom | Writer — Író |
+| **Johann Wolfgang von Goethe** | Faust | European literature — Európai irodalom | Writer — Író |
+| **Ludwig van Beethoven** | IX. szimfónia (az Európai Unió himnusza) | European music — Európai zene | Composer — Zeneszerző |
+| **Wolfgang Amadeus Mozart** | A varázsfuvola | European music — Európai zene | Composer — Zeneszerző |
+| **Pjotr Iljics Csajkovszkij** | A hattyúk tava | European music — Európai zene | Composer — Zeneszerző |
+| **Friedrich von Schiller** | Wrote the poem Örömóda (Ode to Joy, 1785), whose text inspired the theme of the EU anthem (the EU anthem itself is wordless/instrumental) | European literature — Európai irodalom | Poet — Költő |
+
 
 ---
 
@@ -251,7 +303,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 
 | Date (Dátum) | Event (Esemény) |
 |---|---|
-| **895–896** | Honfoglalás — Hungarian Conquest of the Carpathian Basin |
+| **895–896** | Honfoglalás — Hungarian Conquest of the Carpathian Basin; the tribes entered through the **Vereckei-hágó** (Verecke Pass) in the Carpathians (a magyar törzsek a Vereckei-hágón át léptek be a Kárpát-medencébe) |
 | **1001. január 1.** | Szent István megkoronázása — Coronation of Saint Stephen I |
 | **1215** | Magna Charta Libertatum (England) |
 | **1222** | Aranybulla kiadása — Golden Bull issued by Andrew II |
@@ -265,7 +317,7 @@ Hungary recognizes these rights as **inviolable and inalienable** (sérthetetlen
 | **1686. szeptember 2.** | Buda visszafoglalása — Recapture of Buda from the Ottomans |
 | **1703–1711** | Rákóczi-szabadságharc — Rákóczi's uprising against the Habsburgs |
 | **1789** | Emberi és Polgári Jogok Nyilatkozata (France) |
-| **1825–1848** | Reformkor — Reform Era |
+| **1825–1848** | Reformkor — Reform Era; its main political goal (fő politikai célja) was the modernization of Hungary and gaining greater independence from Habsburg rule through peaceful, legal reforms (Magyarország polgári átalakítása és nagyobb önállóság elérése a Habsburgokkal szemben, békés úton) |
 | **1848. március 15.** | A forradalom kitörése — Outbreak of the Hungarian Revolution |
 | **1848. április 11.** | Az első felelős kormány megalakulása — First responsible Hungarian government formed |
 | **1849. augusztus 13.** | Fegyverletétel Világosnál — Surrender at Világos |
@@ -354,7 +406,7 @@ Each ministry (minisztérium) is a government department responsible for one pol
 |---|---|
 | **Himnusz** | National anthem — nemzeti himnusz; poem by Kölcsey Ferenc (1823), music by Erkel Ferenc; begins "Isten, áldd meg a magyart"; sung on national holidays |
 | **Szózat** | Patriotic poem, often sung alongside the Himnusz at national holidays; by Vörösmarty Mihály (1836), music by Egressy Béni — not the national anthem |
-| **Címer (coat of arms)** | Kettős kereszt, hármas halom, Szent Korona, vörös-ezüst hétszer vágott mező |
+| **Címer (coat of arms)** | Kettős kereszt, hármas halom, Szent Korona, vörös-ezüst hétszer vágott mező. Viewed head-on: the **left side** (bal oldal) shows the field divided seven times into **red and silver** stripes (vörössel és ezüsttel hétszer vágott mező); the **right side** (jobb oldal) shows a **green triple mound** (zöld hármas halom) topped with a **golden crown**, from which a **silver double cross** rises (kettős kereszt) |
 | **Zászló (flag)** | Piros = erő (strength), fehér = hűség (loyalty), zöld = remény (hope) |
 | **Szent Korona (Holy Crown)** | Displayed in the Országház; symbol of constitutional continuity and national unity |
 | **Koronázási jelvények (Coronation regalia)** | Szent Korona, országalma, koronázási kard, koronázási jogar, koronázási palást |
@@ -555,12 +607,3 @@ Alongside Széchenyi István, Kossuth Lajos, Batthyány Lajos, Deák Ferenc, and
 | **Szena tér** | Another emblematic resistance location during the 1956 Revolution |
 | **lyukas zászló** | The "flag with a hole" — the Hungarian flag with the communist-era Rákosi coat of arms (Rákosi-címer) physically cut out of the center; one of the revolution's main symbols |
 | **Magyar Rádió épülete** | Site of the first armed clash that sparked the spread of fighting across Budapest |
-
-### Summary: what to add to your review
-
-If you only remember five new things from this section, make it these:
-1. The 1848 cabinet had **9 ministers** — know at least Batthyány (PM), Kossuth (finance), Deák (justice), Széchenyi (transport).
-2. WWI: **Antant** (France, Russia, UK, Italy, Japan, USA, Serbia, Romania) vs. **Központi hatalmak** (Germany, Austria-Hungary, Ottoman Empire, Bulgaria).
-3. Trianon: **⅔ of territory lost**, population dropped **18.2M → 7.6M**, **3.3 million Hungarians** stranded outside the new borders.
-4. WWII: Hungary joined the **Axis** in 1941; the **2nd Army was destroyed at the Don** in 1943; Germany occupied Hungary in **March 1944**.
-5. 1956 symbol: the **lyukas zászló** — flag with the Rákosi emblem cut out of the middle.
