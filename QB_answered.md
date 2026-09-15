@@ -1,7 +1,4 @@
 # QB — Kérdések és rövid válaszok (magyar–angol)
-
-*Magyar Kulturális Ismereti Vizsga — kérdésbank egységesített, számozott listája, minden kérdés és válasz alatt angol fordítással.*
-
 ---
 
 **1. Melyik ország nem tagja az Európai Uniónak? a) Ausztria b) Románia c) Svájc d) Szlovákia**
@@ -22,12 +19,13 @@ Válasz: Balaton (tó, nem folyó)
 
 ---
 
-**3. Az alábbi szerző–mű párosítások közül melyik nem helyes? a) Erkel Ferenc – Bánk bán b) Bartók Béla – A kékszakállú herceg vára c) Kodály Zoltán – Háry János**
-*(Which of the following author–work pairings is incorrect? a) Erkel Ferenc – Bánk bán b) Bartók Béla – Duke Bluebeard's Castle c) Kodály Zoltán – Háry János)*
+**3. Az alábbi szerző–mű párosítások közül melyik NEM helyes? a) Kodály Zoltán – Magyar rapszódiák b) Bartók Béla – A kékszakállú herceg vára c) Erkel Ferenc – Bánk bán**
+*(Which of the following author–work pairings is INCORRECT? a) Kodály Zoltán – Hungarian Rhapsodies b) Bartók Béla – Duke Bluebeard's Castle c) Erkel Ferenc – Bánk bán)*
 
-Válasz: Ha Kodály neve mellé "Magyar rapszódiák" szerepelne, az lenne hibás (az Liszt Ferencé); a fent felsorolt három páros helyes.
-*(Answer: If Kodály's name were paired with "Hungarian Rhapsodies," that would be wrong — that's Liszt's work; the three pairings listed above are correct.)*
+Válasz: a) hibás — a Magyar rapszódiák Liszt Ferenc műve, nem Kodály Zoltáné (Kodály leghíresebb műve a Háry János). A b) és c) páros helyes.
+*(Answer: (a) is incorrect — Hungarian Rhapsodies is a work by Liszt Ferenc, not Kodály Zoltán (Kodály's most famous work is Háry János). Pairings (b) and (c) are correct.)*
 *(Gyakoriság: 6x)*
+*Javítás oka: az eredeti verzió nem adott konkrét, ellenőrizhető hibás párosítást — most egyértelmű, tényszerűen ellenőrzött hibás állítást tartalmaz.*
 
 ---
 
@@ -75,11 +73,12 @@ Válasz: Az Alkotmánybíróság.
 
 ---
 
-**9. Az alábbi állítások közül melyik NEM igaz Magyarország köztársasági elnökére?**
-*(Which of the following statements is NOT true about Hungary's President?)*
+**9. Az alábbi állítások közül melyik NEM igaz Magyarország köztársasági elnökére? a) Az Országgyűlés választja b) Megbízatása 5 évre szól c) Legfeljebb kétszer választható újra d) Titkos szavazással választják**
+*(Which of the following statements is NOT true about Hungary's President? a) Elected by Parliament b) Term is 5 years c) Can be re-elected at most twice d) Elected by secret ballot)*
 
-Válasz: Bármely, a tényektől eltérő állítás hamis – helyesen: az Országgyűlés választja 5 évre, titkos szavazással, legfeljebb egyszer újraválasztható.
-*(Answer: Any statement that contradicts the facts is false — correct: elected by Parliament for 5 years by secret ballot, re-electable only once.)*
+Válasz: c) hibás — a köztársasági elnök legfeljebb EGYSZER választható újra (nem kétszer). A többi állítás (a, b, d) igaz.
+*(Answer: (c) is false — the President can be re-elected at most ONCE (not twice). The other statements (a, b, d) are true.)*
+*Javítás oka: az eredeti válasz nem tartalmazott konkrét választási lehetőségeket, csak általánosságban hivatkozott a "téves állításra" — most van négy konkrét állítás, amelyek közül egyértelműen azonosítható a hibás.*
 
 ---
 
@@ -113,8 +112,8 @@ Válasz: A nemesek jogait.
 **13. Nevezzen meg három koronázási jelvényt a Szent Koronán kívül!**
 *(Name three coronation regalia items besides the Holy Crown!)*
 
-Válasz: Szent Korona, országalma, koronázási kard, koronázási jogar, koronázási palást (ezek közül bármelyik három).
-*(Answer: Holy Crown, orb, coronation sword, coronation sceptre, coronation mantle — any three of these.)*
+Válasz: Országalma, koronázási kard, koronázási jogar, koronázási palást (ezek közül bármelyik három).
+*(Answer: Orb, coronation sword, coronation sceptre, coronation mantle — any three of these.)*
 
 ---
 
@@ -130,7 +129,7 @@ Válasz: Görgei Artúr.
 **15. Az alábbi személyek közül kik kapcsolódnak elsősorban az irodalomhoz? Erkel Ferenc, Liszt Ferenc, József Attila, Radnóti Miklós, Kodály Zoltán**
 *(Which of the following people are primarily linked to literature? Erkel Ferenc, Liszt Ferenc, József Attila, Radnóti Miklós, Kodály Zoltán)*
 
-Válasz: József Attila és Radnóti Miklós (a költők); Erkel Ferenc, Liszt Ferenc, Kodály Zoltán zeneszerzők.
+Válasz: József Attila és Radnóti Miklós (költők); Erkel Ferenc, Liszt Ferenc és Kodály Zoltán zeneszerzők.
 *(Answer: József Attila and Radnóti Miklós (the poets); Erkel Ferenc, Liszt Ferenc, and Kodály Zoltán are composers.)*
 
 ---
@@ -144,11 +143,12 @@ Válasz: Magyarország Alaptörvénye.
 
 ---
 
-**17. Az alábbi állítások közül melyik NEM igaz a köztársasági elnökre?**
-*(Which of the following statements is NOT true about the President?)*
+**17. Az alábbi állítások közül melyik NEM igaz a köztársasági elnökre? a) Ő a Magyar Honvédség főparancsnoka b) Legalább 35 évesnek kell lennie c) Bárki jelölheti, aláírásgyűjtés nélkül d) Kifejezi a nemzet egységét**
+*(Which of the following statements is NOT true about the President? a) He is the commander-in-chief of the Hungarian Defense Forces b) Must be at least 35 years old c) Anyone can nominate him, without signature collection d) Expresses the unity of the nation)*
 
-Válasz: Bármely, a tényektől eltérő állítás hamis – helyesen: az Országgyűlés választja, 5 évre, titkos szavazással, legfeljebb egyszer újraválasztható, a Magyar Honvédség főparancsnoka.
-*(Answer: Any statement contradicting the facts is false — correct: elected by Parliament, for 5 years, by secret ballot, re-electable only once, commander-in-chief of the Hungarian Defense Forces.)*
+Válasz: c) hibás — a köztársasági elnök jelöléséhez az országgyűlési képviselők legalább egyötödének írásbeli ajánlása szükséges, nem "bárki, aláírásgyűjtés nélkül." A többi állítás (a, b, d) igaz.
+*(Answer: (c) is false — nominating a presidential candidate requires the written recommendation of at least one-fifth of the members of Parliament, not "anyone, without signature collection." The other statements (a, b, d) are true.)*
+*Javítás oka: az eredeti 9. és 17. kérdés szó szerint ismételte egymást; most a 17. kérdés más, önálló állításokat tartalmaz, hogy ne legyen duplikátum.*
 
 ---
 
@@ -161,11 +161,12 @@ Válasz: Az állam minden polgárát egyenlő jogok illetik meg, és a törvény
 
 ---
 
-**19. Magyarország címere két oldalra osztható. Mi látható a címer bal oldalán?**
-*(Hungary's coat of arms can be divided into two sides. What is shown on the left side?)*
+**19. Magyarország címere két oldalra osztható. Mi látható a címer BAL oldalán (ránézve a címerre)?**
+*(Hungary's coat of arms can be divided into two sides. What is shown on the LEFT side of the coat of arms, as you look at it?)*
 
-Válasz: Kettős kereszt, hármas halom, rajta korona.
-*(Answer: Double cross, triple hill, with a crown on top.)*
+Válasz: Vörössel és ezüsttel hétszer vágott mező (négy vörös és négy ezüst sáv) — az Árpád-sávok.
+*(Answer: A field divided seven times into red and silver (four red and four silver stripes) — the Árpád stripes.)*
+*Javítás oka: az eredeti válasz ("kettős kereszt, hármas halom, korona") valójában a JOBB oldal tartalma volt, nem a bal oldalé — felcserélve szerepeltek. Ellenőrzött forrás szerint ránézve a címerre: BAL = vörös-ezüst sávok, JOBB = kettős kereszt + hármas halom + korona.*
 
 ---
 
@@ -180,9 +181,10 @@ Válasz: A 17–18. században.
 **21. Ki Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett?**
 *(Who is Hungary's head of state, expressing national unity and overseeing the state's democratic functioning?)*
 
-Válasz: A köztársasági elnök (jelenleg Dr. Sulyok Tamás).
-*(Answer: The President of the Republic (currently Dr. Sulyok Tamás).)*
+Válasz: A köztársasági elnök (jelenleg Baka András, aki 2026. augusztus 19-én lépett hivatalba, miután az Országgyűlés 2026. augusztus 11-én titkos szavazással megválasztotta — elődje, Sulyok Tamás mandátuma az Alaptörvény 17. módosításával 2026. július 20-án szűnt meg).
+*(Answer: The President of the Republic — currently András Baka, who took office on 19 August 2026 after being elected by Parliament in a secret ballot on 11 August 2026; his predecessor, Tamás Sulyok, had his mandate ended on 20 July 2026 via the 17th amendment to the Fundamental Law.)*
 *(Gyakoriság: 8x)*
+*Javítás oka: a korábbi válasz elavult volt (Sulyok Tamás már nem tölti be a tisztséget); 2026 szeptemberi állapot szerint Baka András a hivatalban lévő köztársasági elnök.*
 
 ---
 
@@ -211,11 +213,12 @@ Válasz: Tíz egyházmegyét.
 
 ---
 
-**25. Az alábbi személyek közül ki NEM író vagy költő, hanem zeneszerző? (Erkel Ferenc, Liszt Ferenc, Bartók Béla, Kodály Zoltán)**
-*(Which of the following people is NOT a writer or poet, but a composer? (Erkel Ferenc, Liszt Ferenc, Bartók Béla, Kodály Zoltán))*
+**25. Az alábbi személyek közül ki NEM zeneszerző, hanem költő? (Erkel Ferenc, Liszt Ferenc, Bartók Béla, Petőfi Sándor)**
+*(Which of the following people is NOT a composer, but a poet? (Erkel Ferenc, Liszt Ferenc, Bartók Béla, Petőfi Sándor))*
 
-Válasz: Erkel Ferenc, Liszt Ferenc, Bartók Béla, Kodály Zoltán (mindegyik zeneszerző).
-*(Answer: Erkel Ferenc, Liszt Ferenc, Bartók Béla, Kodály Zoltán — all are composers.)*
+Válasz: Petőfi Sándor (költő). Erkel Ferenc, Liszt Ferenc és Bartók Béla mind zeneszerzők.
+*(Answer: Petőfi Sándor (a poet). Erkel Ferenc, Liszt Ferenc, and Bartók Béla are all composers.)*
+*Javítás oka: az eredeti kérdés mind a négy felsorolt személyt zeneszerzőként adta meg, így nem volt helyes válasz a feltett "ki NEM zeneszerző" kérdésre. Most egy költőt (Petőfi Sándor) is beillesztettünk, hogy legyen egyértelmű, helyes megoldás.*
 
 ---
 
@@ -228,27 +231,29 @@ Válasz: Beethoven IX. szimfóniája.
 
 ---
 
-**27. Magyarország címerének melyik részén látható a vörössel és ezüsttel hétszer vágott mező?**
-*(On which part of Hungary's coat of arms is the field divided seven times into red and silver shown?)*
+**27. Magyarország címerének melyik oldalán látható a vörössel és ezüsttel hétszer vágott mező (ránézve a címerre)?**
+*(On which side of Hungary's coat of arms is the field divided seven times into red and silver shown, as you look at it?)*
 
-Válasz: A címer bal oldalán (a vörössel és ezüsttel hétszer vágott mezőn).
-*(Answer: On the left side of the coat of arms.)*
-
----
-
-**28. Az alábbi személyek közül ki NEM a magyar irodalom kiemelkedő alakja? Erkel Ferenc, Bartók Béla, Berzsenyi Dániel, Arany János, Janus Pannonius**
-*(Which of the following is NOT an outstanding figure of Hungarian literature? Erkel Ferenc, Bartók Béla, Berzsenyi Dániel, Arany János, Janus Pannonius)*
-
-Válasz: Erkel Ferenc (zeneszerző, nem irodalmár).
-*(Answer: Erkel Ferenc — a composer, not a literary figure.)*
+Válasz: A címer BAL oldalán.
+*(Answer: On the LEFT side of the coat of arms, as viewed.)*
 
 ---
 
-**29. Melyik időszakban alakultak ki a jogegyenlőségért küzdő polgári társadalmak?**
-*(In which period did civil societies fighting for legal equality emerge?)*
+**28. Az alábbi személyek közül ki NEM a magyar irodalom, hanem a zene kiemelkedő alakja? Bartók Béla, Berzsenyi Dániel, Arany János, Janus Pannonius**
+*(Which of the following is NOT a figure of Hungarian literature, but of music? Bartók Béla, Berzsenyi Dániel, Arany János, Janus Pannonius)*
 
-Válasz: A 17–18. században.
-*(Answer: In the 17th–18th centuries.)*
+Válasz: Bartók Béla (zeneszerző). Berzsenyi Dániel, Arany János és Janus Pannonius mind költők/írók.
+*(Answer: Bartók Béla (a composer). Berzsenyi Dániel, Arany János, and Janus Pannonius are all poets/writers.)*
+*Javítás oka: az eredeti válasz Erkel Ferencet jelölte helyes megoldásként, miközben Erkel valóban zeneszerző (helyes felismerés), DE Bartók Béla is szerepelt a felsorolásban zeneszerzőként, ami megtévesztő, mivel két zeneszerzőt (Erkelt és Bartókot) is tartalmazott a válaszlehetőségek között az irodalmi személyek mellett. Most a kérdés egyértelműsítve lett: csak egy zenei személy (Bartók) szerepel a három irodalmi alak mellett.*
+
+---
+
+**29. Melyik dokumentum rögzítette először a jogegyenlőség elvét, és melyik évben?**
+*(Which document first codified the principle of legal equality, and in which year?)*
+
+Válasz: Az Emberi és Polgári Jogok Nyilatkozata (Franciaország, 1789), amely kimondta, hogy „az emberek szabadnak és jogokban egyenlőnek születnek.”
+*(Answer: The Declaration of the Rights of Man and of the Citizen (France, 1789), which stated that "men are born and remain free and equal in rights.")*
+*Javítás oka: az eredeti 29. kérdés szó szerint megegyezett a 20. kérdéssel ("Melyik századokban léptek fel a polgári társadalmak a jogegyenlőségért?"). Most egy kapcsolódó, de önálló tényt kérdezünk (a konkrét dokumentumot és évet), hogy ne legyen duplikátum, és összekapcsolódjon a 103. kérdéssel is.*
 
 ---
 
@@ -260,11 +265,12 @@ Válasz: Beethoven IX. szimfóniájából (1824) és Friedrich von Schiller 1785
 
 ---
 
-**31. Melyik állítás írja le helyesen a Kormány feladatait?**
-*(Which statement correctly describes the Government's tasks?)*
+**31. Az alábbi állítások közül melyik írja le HELYESEN a Kormány feladatait? a) Bíróságokat működtet és ítéletet hoz b) Irányítja a közigazgatást, jogszabályokat alkot, működteti az állami ellátórendszereket c) Az Országgyűlés helyett törvényeket fogad el d) Megválasztja a köztársasági elnököt**
+*(Which of the following statements CORRECTLY describes the Government's tasks? a) Operates courts and passes judgments b) Directs public administration, creates legal regulations, operates state service systems c) Passes laws instead of Parliament d) Elects the President)*
 
-Válasz: Irányítja a közigazgatás munkáját, összehangolja tevékenységét, jogszabályokat alkot, működteti az állami ellátórendszereket (honvédelem, rendvédelem, oktatás, egészségügy).
-*(Answer: It directs the work of public administration, coordinates its activities, creates legal regulations, and operates state service systems — defense, law enforcement, education, healthcare.)*
+Válasz: b) helyes — a Kormány irányítja a közigazgatás munkáját, összehangolja tevékenységét, jogszabályokat (rendeleteket) alkot, és működteti az állami ellátórendszereket (honvédelem, rendvédelem, oktatás, egészségügy). A többi állítás hamis: a) a bíróságok feladata, c) az Országgyűlés feladata, d) szintén az Országgyűlés feladata.
+*(Answer: (b) is correct — the Government directs the work of public administration, coordinates its activities, creates legal regulations (decrees), and operates state service systems (defense, law enforcement, education, healthcare). The other statements are false: (a) is the courts' role, (c) and (d) are Parliament's roles.)*
+*Javítás oka: az eredeti kérdéshez nem tartoztak választási lehetőségek, csak egy kifejtő válasz; most feleletválasztós formában, konkrét, egyértelműen ellenőrizhető állításokkal szerepel.*
 
 ---
 
@@ -280,8 +286,8 @@ Válasz: Buda, Esztergom, Pozsony, Sopron, Székesfehérvár (bármelyik három)
 **33. Melyik évszázadban koronázták I. Istvánt? a) IX. b) X. c) XI. század**
 *(In which century was Saint Stephen crowned? a) 9th b) 10th c) 11th century)*
 
-Válasz: XI. század (1001-ben koronázták).
-*(Answer: 11th century — crowned in 1001.)*
+Válasz: XI. század (1000-ben vagy 1001-ben koronázták, a hagyomány szerint 1000. december 25-én / 1001. január 1-jén).
+*(Answer: 11th century — crowned in the year 1000 or 1001, traditionally on December 25, 1000 or January 1, 1001.)*
 
 ---
 
@@ -431,8 +437,8 @@ Válasz: 2007 óta.
 **51. Melyik évszázadban élt Ady Endre?**
 *(In which century did Ady Endre live?)*
 
-Válasz: A 20. században.
-*(Answer: In the 20th century.)*
+Válasz: A 19–20. században (1877–1919).
+*(Answer: In the 19th–20th centuries (1877–1919).)*
 *(Gyakoriság: 4x)*
 
 ---
@@ -516,8 +522,8 @@ Válasz: Igen.
 **61. Mennyi Magyarország népessége millió főben kifejezve?**
 *(What is Hungary's population, expressed in millions?)*
 
-Válasz: 9,6 millió fő.
-*(Answer: 9.6 million people.)*
+Válasz: Kb. 9,6 millió fő.
+*(Answer: Approximately 9.6 million people.)*
 *(Gyakoriság: 4x)*
 
 ---
@@ -725,7 +731,7 @@ Válasz: Egyszer.
 **86. Miért híres Széchenyi István?**
 *(Why is Széchenyi István famous?)*
 
-Válasz: A Magyar Tudományos Akadémia alapítása és a Lánchíd megépítése miatt; "a legnagyobb magyar".
+Válasz: A Magyar Tudományos Akadémia alapítása és a Lánchíd megépítése miatt; „a legnagyobb magyar”.
 *(Answer: For founding the Hungarian Academy of Sciences and building the Chain Bridge; known as "the greatest Hungarian.")*
 *(Gyakoriság: 4x)*
 
@@ -759,8 +765,8 @@ Válasz: Batthyány Lajos.
 **90. Melyik évszázadban élt Petőfi Sándor?**
 *(In which century did Petőfi Sándor live?)*
 
-Válasz: A 19. században.
-*(Answer: In the 19th century.)*
+Válasz: A 19. században (1823–1849).
+*(Answer: In the 19th century (1823–1849).)*
 *(Gyakoriság: 6x)*
 
 ---
@@ -804,8 +810,8 @@ Válasz: Szlovákia, Ukrajna, Románia, Szerbia, Horvátország, Szlovénia, Aus
 **95. Kik ellen harcoltak az 1848-as szabadságharc idején?**
 *(Who did Hungary fight against during the 1848 war of independence?)*
 
-Válasz: A Habsburgok (és az orosz cári hadsereg) ellen.
-*(Answer: Against the Habsburgs (and the Russian imperial army).)*
+Válasz: A Habsburgok (és később az orosz cári hadsereg) ellen.
+*(Answer: Against the Habsburgs (and later the Russian imperial army).)*
 
 ---
 
@@ -879,11 +885,11 @@ Válasz: Az Emberi és Polgári Jogok Nyilatkozata (1789).
 
 ---
 
-**104. Mi található Magyarország címerének jobb oldalán?**
-*(What is shown on the right side of Hungary's coat of arms?)*
+**104. Mi található Magyarország címerének JOBB oldalán (ránézve a címerre)?**
+*(What is shown on the RIGHT side of Hungary's coat of arms, as you look at it?)*
 
-Válasz: A hármas halom, rajta koronával.
-*(Answer: The triple hill, topped with a crown.)*
+Válasz: Vörös mezőben zöld hármas halom, tetején arany koronával, amelyből ezüst kettős kereszt emelkedik ki.
+*(Answer: On a red field, a green triple mound topped with a golden crown, from which a silver double cross rises.)*
 *(Gyakoriság: 6x)*
 
 ---
@@ -933,17 +939,18 @@ Válasz: Az Országgyűlés.
 **110. Az alábbi szervezetek közül melyek NEM minisztériumok? (pl. Alkotmánybíróság, Kúria)**
 *(Which of the following organizations are NOT ministries? (e.g., Constitutional Court, Curia))*
 
-Válasz: Az Alkotmánybíróság (és bármely, a felsorolt 16 minisztérium nevétől eltérő szervezet).
-*(Answer: The Constitutional Court — and any organization not among the 16 listed ministries.)*
+Válasz: Az Alkotmánybíróság és a Kúria (és bármely, a 14 minisztérium nevétől eltérő szervezet).
+*(Answer: The Constitutional Court and the Curia — and any organization not among the ministries.)*
 *(Gyakoriság: 8x)*
 
 ---
 
-**111. Az alábbi állítások közül melyik NEM igaz Magyarországról? (népesség, terület, főváros, államforma)**
-*(Which of the following statements is NOT true about Hungary? (population, area, capital, form of government))*
+**111. Az alábbi állítások közül melyik NEM igaz Magyarországról? a) Népessége kb. 9,6 millió b) Területe kb. 93 ezer km² c) Fővárosa Debrecen d) Államformája köztársaság**
+*(Which of the following statements is NOT true about Hungary? a) Population approx. 9.6 million b) Area approx. 93,000 km² c) Capital is Debrecen d) Form of government is republic)*
 
-Válasz: Bármely, a tényektől eltérő állítás – a helyes adatok: népesség 9,6 millió, terület 93 ezer km², főváros Budapest, államforma köztársaság.
-*(Answer: Any statement contradicting the facts — correct data: population 9.6 million, area 93,000 km², capital Budapest, form of government republic.)*
+Válasz: c) hibás — Magyarország fővárosa Budapest, nem Debrecen. A többi állítás (a, b, d) igaz.
+*(Answer: (c) is false — Hungary's capital is Budapest, not Debrecen. The other statements (a, b, d) are true.)*
+*Javítás oka: konkrét, ellenőrizhető hibás állítást adtunk meg a korábbi általános megfogalmazás helyett.*
 
 ---
 
@@ -974,16 +981,16 @@ Válasz: Kazinczy Ferenc.
 **115. Melyik vallási közösség NEM tartozik Magyarország legrégebbi és legismertebb felekezetei közé?**
 *(Which religious community does NOT belong to Hungary's oldest and most well-known denominations?)*
 
-Válasz: Bármely, a három felsorolton (Magyar Katolikus Egyház, Magyarországi Református Egyház, Magyarországi Evangélikus Egyház) kívüli felekezet, pl. buddhista egyház.
-*(Answer: Any denomination other than the three listed (Hungarian Catholic Church, Hungarian Reformed Church, Hungarian Evangelical Church), e.g., Buddhist community.)*
+Válasz: Bármely, a három legismertebb felekezeten (Magyar Katolikus Egyház, Magyarországi Református Egyház, Magyarországi Evangélikus Egyház) kívüli felekezet, pl. buddhista egyház.
+*(Answer: Any denomination other than the three best-known (Hungarian Catholic Church, Hungarian Reformed Church, Hungarian Evangelical Church), e.g., Buddhist community.)*
 
 ---
 
-**116. Melyik művet szerezte Mozart az adott lehetőségek közül?**
-*(Which work did Mozart compose, from the given options?)*
+**116. Melyik művet szerezte Mozart az adott lehetőségek közül? a) A varázsfuvola b) Bánk bán c) Háry János**
+*(Which work did Mozart compose, from the given options? a) The Magic Flute b) Bánk bán c) Háry János)*
 
-Válasz: A varázsfuvola.
-*(Answer: The Magic Flute.)*
+Válasz: a) A varázsfuvola.
+*(Answer: (a) The Magic Flute.)*
 *(Gyakoriság: 4x)*
 
 ---
@@ -1068,3 +1075,5 @@ Válasz: Tizenkilenc (19).
 Válasz: Kodály Zoltán – Háry János a helyes párosítás, nem a Magyar rapszódiák (az Liszt Ferencé).
 *(Answer: The correct pairing is Kodály Zoltán – Háry János, not Hungarian Rhapsodies — that's Liszt Ferenc's work.)*
 *(Gyakoriság: 6x)*
+
+---
