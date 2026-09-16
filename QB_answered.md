@@ -1077,3 +1077,50 @@ Válasz: Kodály Zoltán – Háry János a helyes párosítás, nem a Magyar ra
 *(Gyakoriság: 6x)*
 
 ---
+**127. Mit jelent a "hungarikum" fogalma? (esszé)**
+
+**válasz:**
+A hungarikum egy tipikusan magyar dolog — olyan étel, ital, tárgy vagy szokás, ami egyedi Magyarországra, és más országra nem jellemző. (**"Tipikusan magyar dolog"**)
+
+*(answer: A hungarikum is something uniquely Hungarian — a food, drink, object, or custom that is specific to Hungary and not typical of any other country.)*
+
+**Példák (Examples):**
+- Ételek (foods): gulyásleves, dobostorta
+- Italok (drinks): tokaji aszú, pálinka
+- Állatok (animals): puli, magyar vizsla
+- Tárgyak/kézművesség (objects/crafts): Zsolnay-porcelán, halasi csipke
+
+---
+
+**128. Milyen területi és népességi veszteséget szenvedett Magyarország a trianoni békeszerződés következtében?**
+
+**válasz:**
+**2/3 terület, 18,2 → 7,6 millió lakos, 3,3 millió magyar a határokon kívül.**
+
+---
+
+## 129. Mikor és hogyan kezdődött az 1956-os forradalom?
+
+**válasz:**
+1956. október 23-án kezdődött, békés diáktüntetéssel Budapesten. A Magyar Rádió épületénél tört ki a fegyveres harc.
+
+*(answer: It began on October 23, 1956, with a peaceful student protest in Budapest. Armed fighting broke out at the Hungarian Radio building.)*
+
+---
+
+## 130. Mit testesít meg a köztársasági elnök szerepe?
+
+**válasz:**
+Ő képviseli a nemzet egységét, és figyeli, hogy az ország demokratikusan működjön.
+
+*(answer: He represents the unity of the nation, and watches over the democratic functioning of the country.)*
+
+---
+
+**131. Mit mond az Alaptörvény a köztársasági elnök megbízatásáról és újraválaszthatóságáról?**
+
+**válasz:**
+A ciklusa 5 év, és egyszer újraválasztható.
+
+*(answer: The term is 5 years, and he can be re-elected once.)*
+
