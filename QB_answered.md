@@ -25,7 +25,6 @@ Válasz: Balaton (tó, nem folyó)
 Válasz: a) hibás — a Magyar rapszódiák Liszt Ferenc műve, nem Kodály Zoltáné (Kodály leghíresebb műve a Háry János). A b) és c) páros helyes.
 *(Answer: (a) is incorrect — Hungarian Rhapsodies is a work by Liszt Ferenc, not Kodály Zoltán (Kodály's most famous work is Háry János). Pairings (b) and (c) are correct.)*
 *(Gyakoriság: 6x)*
-*Javítás oka: az eredeti verzió nem adott konkrét, ellenőrizhető hibás párosítást — most egyértelmű, tényszerűen ellenőrzött hibás állítást tartalmaz.*
 
 ---
 
@@ -78,7 +77,6 @@ Válasz: Az Alkotmánybíróság.
 
 Válasz: c) hibás — a köztársasági elnök legfeljebb EGYSZER választható újra (nem kétszer). A többi állítás (a, b, d) igaz.
 *(Answer: (c) is false — the President can be re-elected at most ONCE (not twice). The other statements (a, b, d) are true.)*
-*Javítás oka: az eredeti válasz nem tartalmazott konkrét választási lehetőségeket, csak általánosságban hivatkozott a "téves állításra" — most van négy konkrét állítás, amelyek közül egyértelműen azonosítható a hibás.*
 
 ---
 
@@ -148,7 +146,6 @@ Válasz: Magyarország Alaptörvénye.
 
 Válasz: c) hibás — a köztársasági elnök jelöléséhez az országgyűlési képviselők legalább egyötödének írásbeli ajánlása szükséges, nem "bárki, aláírásgyűjtés nélkül." A többi állítás (a, b, d) igaz.
 *(Answer: (c) is false — nominating a presidential candidate requires the written recommendation of at least one-fifth of the members of Parliament, not "anyone, without signature collection." The other statements (a, b, d) are true.)*
-*Javítás oka: az eredeti 9. és 17. kérdés szó szerint ismételte egymást; most a 17. kérdés más, önálló állításokat tartalmaz, hogy ne legyen duplikátum.*
 
 ---
 
@@ -166,7 +163,6 @@ Válasz: Az állam minden polgárát egyenlő jogok illetik meg, és a törvény
 
 Válasz: Vörössel és ezüsttel hétszer vágott mező (négy vörös és négy ezüst sáv) — az Árpád-sávok.
 *(Answer: A field divided seven times into red and silver (four red and four silver stripes) — the Árpád stripes.)*
-*Javítás oka: az eredeti válasz ("kettős kereszt, hármas halom, korona") valójában a JOBB oldal tartalma volt, nem a bal oldalé — felcserélve szerepeltek. Ellenőrzött forrás szerint ránézve a címerre: BAL = vörös-ezüst sávok, JOBB = kettős kereszt + hármas halom + korona.*
 
 ---
 
@@ -184,7 +180,6 @@ Válasz: A 17–18. században.
 Válasz: A köztársasági elnök (jelenleg Baka András, aki 2026. augusztus 19-én lépett hivatalba, miután az Országgyűlés 2026. augusztus 11-én titkos szavazással megválasztotta — elődje, Sulyok Tamás mandátuma az Alaptörvény 17. módosításával 2026. július 20-án szűnt meg).
 *(Answer: The President of the Republic — currently András Baka, who took office on 19 August 2026 after being elected by Parliament in a secret ballot on 11 August 2026; his predecessor, Tamás Sulyok, had his mandate ended on 20 July 2026 via the 17th amendment to the Fundamental Law.)*
 *(Gyakoriság: 8x)*
-*Javítás oka: a korábbi válasz elavult volt (Sulyok Tamás már nem tölti be a tisztséget); 2026 szeptemberi állapot szerint Baka András a hivatalban lévő köztársasági elnök.*
 
 ---
 
@@ -218,7 +213,6 @@ Válasz: Tíz egyházmegyét.
 
 Válasz: Petőfi Sándor (költő). Erkel Ferenc, Liszt Ferenc és Bartók Béla mind zeneszerzők.
 *(Answer: Petőfi Sándor (a poet). Erkel Ferenc, Liszt Ferenc, and Bartók Béla are all composers.)*
-*Javítás oka: az eredeti kérdés mind a négy felsorolt személyt zeneszerzőként adta meg, így nem volt helyes válasz a feltett "ki NEM zeneszerző" kérdésre. Most egy költőt (Petőfi Sándor) is beillesztettünk, hogy legyen egyértelmű, helyes megoldás.*
 
 ---
 
@@ -244,7 +238,6 @@ Válasz: A címer BAL oldalán.
 
 Válasz: Bartók Béla (zeneszerző). Berzsenyi Dániel, Arany János és Janus Pannonius mind költők/írók.
 *(Answer: Bartók Béla (a composer). Berzsenyi Dániel, Arany János, and Janus Pannonius are all poets/writers.)*
-*Javítás oka: az eredeti válasz Erkel Ferencet jelölte helyes megoldásként, miközben Erkel valóban zeneszerző (helyes felismerés), DE Bartók Béla is szerepelt a felsorolásban zeneszerzőként, ami megtévesztő, mivel két zeneszerzőt (Erkelt és Bartókot) is tartalmazott a válaszlehetőségek között az irodalmi személyek mellett. Most a kérdés egyértelműsítve lett: csak egy zenei személy (Bartók) szerepel a három irodalmi alak mellett.*
 
 ---
 
@@ -253,7 +246,6 @@ Válasz: Bartók Béla (zeneszerző). Berzsenyi Dániel, Arany János és Janus 
 
 Válasz: Az Emberi és Polgári Jogok Nyilatkozata (Franciaország, 1789), amely kimondta, hogy „az emberek szabadnak és jogokban egyenlőnek születnek.”
 *(Answer: The Declaration of the Rights of Man and of the Citizen (France, 1789), which stated that "men are born and remain free and equal in rights.")*
-*Javítás oka: az eredeti 29. kérdés szó szerint megegyezett a 20. kérdéssel ("Melyik századokban léptek fel a polgári társadalmak a jogegyenlőségért?"). Most egy kapcsolódó, de önálló tényt kérdezünk (a konkrét dokumentumot és évet), hogy ne legyen duplikátum, és összekapcsolódjon a 103. kérdéssel is.*
 
 ---
 
@@ -270,7 +262,6 @@ Válasz: Beethoven IX. szimfóniájából (1824) és Friedrich von Schiller 1785
 
 Válasz: b) helyes — a Kormány irányítja a közigazgatás munkáját, összehangolja tevékenységét, jogszabályokat (rendeleteket) alkot, és működteti az állami ellátórendszereket (honvédelem, rendvédelem, oktatás, egészségügy). A többi állítás hamis: a) a bíróságok feladata, c) az Országgyűlés feladata, d) szintén az Országgyűlés feladata.
 *(Answer: (b) is correct — the Government directs the work of public administration, coordinates its activities, creates legal regulations (decrees), and operates state service systems (defense, law enforcement, education, healthcare). The other statements are false: (a) is the courts' role, (c) and (d) are Parliament's roles.)*
-*Javítás oka: az eredeti kérdéshez nem tartoztak választási lehetőségek, csak egy kifejtő válasz; most feleletválasztós formában, konkrét, egyértelműen ellenőrizhető állításokkal szerepel.*
 
 ---
 
@@ -950,7 +941,6 @@ Válasz: Az Alkotmánybíróság és a Kúria (és bármely, a 14 minisztérium 
 
 Válasz: c) hibás — Magyarország fővárosa Budapest, nem Debrecen. A többi állítás (a, b, d) igaz.
 *(Answer: (c) is false — Hungary's capital is Budapest, not Debrecen. The other statements (a, b, d) are true.)*
-*Javítás oka: konkrét, ellenőrizhető hibás állítást adtunk meg a korábbi általános megfogalmazás helyett.*
 
 ---
 
@@ -1124,3 +1114,66 @@ A ciklusa 5 év, és egyszer újraválasztható.
 
 *(answer: The term is 5 years, and he can be re-elected once.)*
 
+---
+
+**132. Hány ország tagja jelenleg az Európai Uniónak?**
+*(How many countries are currently members of the European Union?)*
+
+Válasz: 27 ország.
+*(Answer: 27 countries.)*
+
+---
+
+**133. Hány évre választják az országgyűlési képviselőket?**
+*(For how many years are members of Parliament elected?)*
+
+Válasz: 4 évre.
+*(Answer: For 4 years.)*
+
+---
+
+**134. Mi a magyar zászló középső (fehér) színének jelentése?**
+*(What does the middle, white color of the Hungarian flag mean?)*
+
+Válasz: A hűséget jelképezi.
+*(Answer: It symbolizes loyalty/fidelity.)*
+
+---
+
+**135. Ki írta a „Nemzeti dal” című költeményt?**
+*(Who wrote the poem "Nemzeti dal" (National Song)?)*
+
+Válasz: Petőfi Sándor.
+*(Answer: Petőfi Sándor.)*
+
+---
+
+**136. Magyarázza el, mit jelent az „Alaptörvény” fogalma!**
+*(Explain what the concept of "Alaptörvény" (Fundamental Law) means!)*
+
+Válasz: Az Alaptörvény Magyarország alkotmánya — a jogrend alapja, különleges, a többi törvény felett álló, legmagasabb jogi erővel bíró norma; 2011. április 18-án fogadták el, és 2012. január 1-jén lépett hatályba.
+*(Answer: The Fundamental Law is Hungary's constitution — the basis of the legal order; a special norm standing above all other laws, holding the highest legal force; adopted on April 18, 2011, and took effect on January 1, 2012.)*
+
+---
+
+**137. Az alábbi személyek közül kik a magyar költők? Széchenyi Ferenc, Radnóti Miklós, József Attila, Bartók Béla, Liszt Ferenc**
+*(Which of the following people are Hungarian poets? Széchenyi Ferenc, Radnóti Miklós, József Attila, Bartók Béla, Liszt Ferenc)*
+
+Válasz: Radnóti Miklós és József Attila (költők). Széchenyi Ferenc nem költő (Széchenyi István apja, főúr/mecénás volt), Bartók Béla és Liszt Ferenc zeneszerzők.
+*(Answer: Radnóti Miklós and József Attila (poets). Széchenyi Ferenc was not a poet (he was the father of Széchenyi István, an aristocrat/patron), and Bartók Béla and Liszt Ferenc are composers.)*
+
+---
+
+**138. A miniszterelnöki tisztség időtartama és újraválaszthatósága alkotmányos kérdés-e?**
+*(Is the duration and re-electability of the Prime Minister's position a constitutional matter?)*
+
+Válasz: Nem igazán korlátozott alkotmányosan úgy, mint a köztársasági elnöké — a miniszterelnököt az Országgyűlés választja meg, és megbízatása az Országgyűlés 4 éves ciklusához igazodik, korlátlanul újraválasztható (nincs olyan szabály, mint az elnöknél, hogy legfeljebb egyszer választható újra).
+*(Answer: Not restricted the same way as the President's — the Prime Minister is elected by Parliament, and the term follows Parliament's 4-year cycle; there is no limit on re-election, unlike for the President who may be re-elected only once.)*
+
+---
+
+**139. Kik a XI–XIV. századi Árpád-ház legmeghatározóbb két alakja Szent István után?**
+*(Who are the two most defining figures of the Árpád dynasty from the 11th–14th centuries, after Saint Stephen?)*
+
+Válasz: Szent László és Könyves Kálmán.
+*(Answer: Saint László (Ladislaus I) and Coloman the Learned (Könyves Kálmán).)*
