@@ -1099,7 +1099,7 @@ A hungarikum egy tipikusan magyar dolog — olyan étel, ital, tárgy vagy szok�
 
 ---
 
-## 129. Mikor és hogyan kezdődött az 1956-os forradalom?
+**129. Mikor és hogyan kezdődött az 1956-os forradalom?**
 
 **válasz:**
 1956. október 23-án kezdődött, békés diáktüntetéssel Budapesten. A Magyar Rádió épületénél tört ki a fegyveres harc.
@@ -1108,7 +1108,7 @@ A hungarikum egy tipikusan magyar dolog — olyan étel, ital, tárgy vagy szok�
 
 ---
 
-## 130. Mit testesít meg a köztársasági elnök szerepe?
+**130. Mit testesít meg a köztársasági elnök szerepe?**
 
 **válasz:**
 Ő képviseli a nemzet egységét, és figyeli, hogy az ország demokratikusan működjön.
